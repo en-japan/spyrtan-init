@@ -15,10 +15,22 @@
 
 ## 2-2. Python の install
 
+### 目標
+
+自分のPCで Python を動くようにする
+
+### 学習内容
+
 - install 方法（Windows）
 - install 方法（macOS）
 
 ## 2-3. Unix コマンド
+
+### 目標
+
+Unix Command が何かを理解し、基本的なコマンドが使えるようになる
+
+### 学習内容
 
 - Windows10 のための bash
 - Unix Command とは何か
@@ -26,6 +38,12 @@
 - よく使う Unix Command
 
 ## 2-4. Git の使い方
+
+### 目標
+
+Git を使うメリットを理解し、簡単な変更差分の保存をできるようにする
+
+### 学習内容
 
 - Git とは何か
 - なぜ Git を使うのか
